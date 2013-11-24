@@ -1,0 +1,13 @@
+{
+    "name": "block-bitcoin-exchange-rates",
+    "version": "0.0.1",
+    "engines": {
+        "node": "0.8.19",
+        "npm": "1.2.10"
+    },
+    "dependencies": {
+        "coffee-script": "latest",
+        "node-webpipe": "latest",
+        "bitcoin-exchange-rates": "latest"
+    }
+}
